@@ -14,14 +14,8 @@
 
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/debashish-das-ab8981180/">
+<a href="https://www.linkedin.com/in/vikas-naik-814a2569/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://debashishdas3100.medium.com/">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
-</a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/12894158/debashish-das">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
 </p>
