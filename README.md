@@ -5,7 +5,7 @@
  
 
 <p align='center'>
-  An Android Developer from Banglore, India 🇮🇳
+  Android Developer from Banglore, India 🇮🇳
 </p>
 
  
