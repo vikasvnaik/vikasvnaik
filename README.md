@@ -23,5 +23,5 @@
  
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasvnaik&show_icons=true&theme=dark" width="350"/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vikasvnaik&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
